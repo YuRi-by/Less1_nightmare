@@ -1,2 +1,5 @@
-line1 my song
-line2 my song2[A[D1[B[B
+line1 my song1
+line2 my song2
+
+line3 my song3
+line4 my song4
